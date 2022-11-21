@@ -433,7 +433,7 @@ div.priem #str {
     opacity: 1;
     height: 40px;
     width: 207px;
-    background: #9E0C0F;
+    background: #d00b0f;
     color: #fff;
     line-height: 30px;
     text-decoration: none;
@@ -621,7 +621,7 @@ div#pcarousel {
     height: 110px;
     font-size: 20px;
     padding: 7px 7px 40px 7px;
-    border-top: 5px solid #9E0C0F;
+    border-top: 5px solid #d00b0f;
 }
 
 .stats {
@@ -742,8 +742,8 @@ a.rightLink:hover {
 
 #att2 {
     padding: 40px 0;
-    border-top: 12px solid #9f1c14;
-    border-bottom: 12px solid #9f1c14;
+    border-top: 12px solid #d00b0f;
+    border-bottom: 12px solid #d00b0f;
     background: #f8f8f8;
 }
 
@@ -937,7 +937,7 @@ ul.reasons li.r5 {
     height: 426px;
     position: absolute;
     z-index: 15;
-    background: #d6281d;
+    background: #d00b0f;
     padding: 0 15px;
     width: 350px;
     margin-left: 10%;
@@ -969,12 +969,10 @@ ul.reasons li.r5 {
 
 .yellow_bg {
     width: 310px;
-    background: url(../img/yellow_but.png) repeat-x;
+    background: #d00b0f;
     height: 50px;
-    -webkit-border-radius: 0px;
-    -moz-border-radius: 0px;
-    border-radius: 0px;
-    color: #000;
+    border-radius: 20px;
+    color: #fff;
     font-size: 18px;
     padding: 0;
     margin-left: 20px;
@@ -997,7 +995,7 @@ ul.reasons li.r5 {
 }
 
 .red_bg {
-    background: url(../img/red_bg.jpg) repeat-x;
+    background: #d00b0f;
     color: #fff;
     width: 245px;
     height: 61px;
